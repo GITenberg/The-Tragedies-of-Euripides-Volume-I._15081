@@ -1,0 +1,39 @@
+_repo: The-Tragedies-of-Euripides-Volume-I._15081
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Buckley, Theodore Alois
+    alias: Buckley, T. A. (Theodore Alois)
+    birthdate: 1825
+    deathdate: 1856
+    gutenberg_agent_id: '25301'
+    url: http://www.gutenberg.org/2009/agents/25301
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Euripides
+    alias: Ευριπίδης
+    deathdate: -406
+    gutenberg_agent_id: '1680'
+    url: http://www.gutenberg.org/2009/agents/1680
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Euripides
+    - http://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2005-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15081'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Euripides -- Translations into English'
+- !lcc 'PA'
+- !lcsh 'Mythology, Greek -- Drama'
+title: The Tragedies of Euripides, Volume I.
+url: http://www.gutenberg.org/ebooks/15081
